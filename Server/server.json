@@ -1,1 +1,29 @@
-
+{
+  "servers": [
+    {
+      "name": "Vanilla",
+      "version": "1.16.5",
+      "url": "https://example.com/vanilla-1.16.5.jar"
+    },
+    {
+      "name": "Spigot",
+      "version": "1.16.5",
+      "url": "https://example.com/spigot-1.16.5.jar"
+    },
+    {
+      "name": "Paper",
+      "version": "1.16.5",
+      "url": "https://example.com/paper-1.16.5.jar"
+    },
+    {
+      "name": "Vanilla",
+      "version": "1.17",
+      "url": "https://example.com/vanilla-1.17.jar"
+    },
+    {
+      "name": "Spigot",
+      "version": "1.17",
+      "url": "https://example.com/spigot-1.17.jar"
+    }
+  ]
+}
