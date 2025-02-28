@@ -24,6 +24,11 @@
       "name": "Spigot",
       "version": "1.17",
       "url": "https://example.com/spigot-1.17.jar"
-    }
+    },
+     {
+      "name": "Spigot",
+      "version": "1.16.5",
+      "url": "https://example.com/spigot-1.16.5.jar"
+    },
   ]
 }
