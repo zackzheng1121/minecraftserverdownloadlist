@@ -1,9 +1,9 @@
 {
   "servers": [
     {
-      "name": "Vanilla",
-      "version": "1.16.5",
-      "url": "https://example.com/vanilla-1.16.5.jar"
+      "name": "Paper",
+      "version": "1.21.4",
+      "url": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/185/downloads/paper-1.21.4-185.jar"
     },
     {
       "name": "Spigot",
